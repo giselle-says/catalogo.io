@@ -15,7 +15,7 @@ const pages = [
     { name: 'Computadoras', link: '/computadoras' },
     { name: 'Electronicos', link: '/electronicos' },
     { name: 'Juguetes', link: '/juguetes' },
-    { name: 'Herramienta', link: '/herramienta' }
+    { name: 'Herramientas', link: '/herramientas' }
   ];
 
 function Navbar() {
