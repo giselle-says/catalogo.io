@@ -1,0 +1,19 @@
+.navbar-text{
+    text-transform: none !important;
+    font-weight: bold !important;
+    color: white !important;
+}
+.navbar-text:hover {
+    color: lightgray;
+}
+.app-bar{
+    background-color:black !important;
+}
+.slider{
+    background-color: white;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #fefdfa;
+}
